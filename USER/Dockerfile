@@ -3,6 +3,6 @@ FROM almalinux:9
 RUN dnf install git -y
 RUN useradd bharathkumarreddyn
 
-USER bharathkumarreddy
+USER bharathkumarreddyn
 CMD ["google.com"]
 ENTRYPOINT ["ping"]
