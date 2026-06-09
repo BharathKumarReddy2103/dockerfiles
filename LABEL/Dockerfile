@@ -3,3 +3,4 @@ LABEL COURSE="DevSecOps" \
       TRAINER="BharathkumarReddy N." \
       DURATION="120HRS" \
       com.bharathdevops.dockerfile.author="bharath@bharathdevops.com"
+      
